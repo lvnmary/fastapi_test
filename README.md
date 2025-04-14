@@ -28,7 +28,7 @@ REST API-сервис для бронирования столиков в рес
 1. Клонировать репозиторий:
 
 ```
-git clone 
+git clone git@github.com:lvnmary/fastapi_test.git
 cd restaurant_booking
 
 ```
